@@ -1,0 +1,504 @@
+# depslib dependency file v1.0
+1701077366 source:c:\users\showe\desktop\library\main.cpp
+	"library.h"
+
+1701957323 c:\users\showe\desktop\library\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1701766624 c:\users\showe\desktop\library\include\admin.h
+	<iostream>
+
+1701957525 c:\users\showe\desktop\library\include\book.h
+	<vector>
+	<iostream>
+	"record.h"
+	"book.h"
+
+1701954348 c:\users\showe\desktop\library\include\user.h
+	<iostream>
+	<vector>
+	"record.h"
+
+1701075235 c:\users\showe\desktop\library\include\view.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1701694336 source:c:\users\showe\desktop\library\src\admin.cpp
+	"admin.h"
+
+1701768155 source:c:\users\showe\desktop\library\src\user.cpp
+	"user.h"
+
+1701954784 source:c:\users\showe\desktop\library\src\book.cpp
+	"book.h"
+	<iomanip>
+
+1701957343 source:c:\users\showe\desktop\library\src\library.cpp
+	"library.h"
+
+1701955628 source:c:\users\showe\desktop\library\src\record.cpp
+	"record.h"
+
+1701957323 c:\users\showe\desktop\library\include\record.h
+	"book.h"
+	"user.h"
+	<iostream>
+
+1701077368 source:d:\library\main.cpp
+	"library.h"
+
+1702136097 d:\library\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1701766626 d:\library\include\admin.h
+	<iostream>
+
+1701957526 d:\library\include\book.h
+	<vector>
+	<iostream>
+	"record.h"
+	"book.h"
+
+1701957324 d:\library\include\record.h
+	"book.h"
+	"user.h"
+	<iostream>
+
+1702293514 d:\library\include\user.h
+	<iostream>
+	<vector>
+	"record.h"
+
+1701694338 source:d:\library\src\admin.cpp
+	"admin.h"
+
+1701958254 source:d:\library\src\book.cpp
+	"book.h"
+	<iomanip>
+
+1701955630 source:d:\library\src\record.cpp
+	"record.h"
+
+1701768156 source:d:\library\src\user.cpp
+	"user.h"
+
+1702310107 source:d:\library\src\library.cpp
+	"library.h"
+
+1701077368 source:c:\users\showe\downloads\library\main.cpp
+	"library.h"
+
+1702136098 c:\users\showe\downloads\library\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1701766626 c:\users\showe\downloads\library\include\admin.h
+	<iostream>
+
+1701957526 c:\users\showe\downloads\library\include\book.h
+	<vector>
+	<iostream>
+	"record.h"
+	"book.h"
+
+1701957324 c:\users\showe\downloads\library\include\record.h
+	"book.h"
+	"user.h"
+	<iostream>
+
+1702293516 c:\users\showe\downloads\library\include\user.h
+	<iostream>
+	<vector>
+	"record.h"
+
+1701694338 source:c:\users\showe\downloads\library\src\admin.cpp
+	"admin.h"
+
+1701958254 source:c:\users\showe\downloads\library\src\book.cpp
+	"book.h"
+	<iomanip>
+
+1701955630 source:c:\users\showe\downloads\library\src\record.cpp
+	"record.h"
+
+1701768156 source:c:\users\showe\downloads\library\src\user.cpp
+	"user.h"
+
+1701077368 source:c:\users\showe\desktop\library1.0\main.cpp
+	"library.h"
+
+1702907923 c:\users\showe\desktop\library1.0\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	<time.h>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1702898771 c:\users\showe\desktop\library1.0\include\admin.h
+	<iostream>
+
+1702907038 c:\users\showe\desktop\library1.0\include\book.h
+	<vector>
+	<iostream>
+	<sstream>
+
+1702906870 c:\users\showe\desktop\library1.0\include\record.h
+	<iostream>
+
+1702907038 c:\users\showe\desktop\library1.0\include\user.h
+	<iostream>
+	<vector>
+
+1702903205 source:c:\users\showe\desktop\library1.0\src\admin.cpp
+	"admin.h"
+
+1702898771 source:c:\users\showe\desktop\library1.0\src\record.cpp
+	"record.h"
+
+1702903205 source:c:\users\showe\desktop\library1.0\src\user.cpp
+	"user.h"
+
+1702899729 source:c:\users\showe\desktop\library1.0\src\book.cpp
+	"book.h"
+	"library.h"
+	<iomanip>
+
+1702908420 source:c:\users\showe\desktop\library1.0\src\library.cpp
+	"library.h"
+
+1702912217 source:c:\users\showe\desktop\library1.1\main.cpp
+	"library.h"
+
+1702907923 c:\users\showe\desktop\library1.1\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	<time.h>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1702898771 c:\users\showe\desktop\library1.1\include\admin.h
+	<iostream>
+
+1702907038 c:\users\showe\desktop\library1.1\include\book.h
+	<vector>
+	<iostream>
+	<sstream>
+
+1702907038 c:\users\showe\desktop\library1.1\include\user.h
+	<iostream>
+	<vector>
+
+1702906870 c:\users\showe\desktop\library1.1\include\record.h
+	<iostream>
+
+1702903205 source:c:\users\showe\desktop\library1.1\src\admin.cpp
+	"admin.h"
+
+1702914694 source:c:\users\showe\desktop\library1.1\src\book.cpp
+	"book.h"
+	"library.h"
+	<iomanip>
+
+1702914306 source:c:\users\showe\desktop\library1.1\src\library.cpp
+	"library.h"
+
+1702898771 source:c:\users\showe\desktop\library1.1\src\record.cpp
+	"record.h"
+
+1702903205 source:c:\users\showe\desktop\library1.1\src\user.cpp
+	"user.h"
+
+1702912217 source:c:\users\showe\desktop\library1.2\main.cpp
+	"library.h"
+
+1702907923 c:\users\showe\desktop\library1.2\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	<time.h>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1702898771 c:\users\showe\desktop\library1.2\include\admin.h
+	<iostream>
+
+1702907038 c:\users\showe\desktop\library1.2\include\book.h
+	<vector>
+	<iostream>
+	<sstream>
+
+1702907038 c:\users\showe\desktop\library1.2\include\user.h
+	<iostream>
+	<vector>
+
+1702948641 c:\users\showe\desktop\library1.2\include\record.h
+	<iostream>
+
+1702903205 source:c:\users\showe\desktop\library1.2\src\admin.cpp
+	"admin.h"
+
+1702903205 source:c:\users\showe\desktop\library1.2\src\user.cpp
+	"user.h"
+
+1702948806 source:c:\users\showe\desktop\library1.2\src\book.cpp
+	"book.h"
+	"library.h"
+	<iomanip>
+
+1702952456 source:c:\users\showe\desktop\library1.2\src\library.cpp
+	"library.h"
+
+1702951859 source:c:\users\showe\desktop\library1.2\src\record.cpp
+	"record.h"
+	<time.h>
+
+1702912217 source:c:\users\showe\desktop\library1.3\main.cpp
+	"library.h"
+
+1702977766 c:\users\showe\desktop\library1.3\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	<time.h>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1702960926 c:\users\showe\desktop\library1.3\include\admin.h
+	<iostream>
+
+1702983418 c:\users\showe\desktop\library1.3\include\book.h
+	<iostream>
+	<vector>
+
+1702960926 c:\users\showe\desktop\library1.3\include\user.h
+	<iostream>
+
+1702960926 c:\users\showe\desktop\library1.3\include\record.h
+	<iostream>
+
+1702960821 source:c:\users\showe\desktop\library1.3\src\admin.cpp
+	"library.h"
+
+1702987558 source:c:\users\showe\desktop\library1.3\src\book.cpp
+	"library.h"
+
+1702987564 source:c:\users\showe\desktop\library1.3\src\library.cpp
+	"library.h"
+
+1702960821 source:c:\users\showe\desktop\library1.3\src\record.cpp
+	"library.h"
+
+1702960821 source:c:\users\showe\desktop\library1.3\src\user.cpp
+	"library.h"
+
+1702912217 source:c:\users\showe\desktop\计科2306 202308010603\main.cpp
+	"library.h"
+
+1703347447 c:\users\showe\desktop\计科2306 202308010603\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	<time.h>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1702960926 c:\users\showe\desktop\计科2306 202308010603\include\admin.h
+	<iostream>
+
+1703386036 c:\users\showe\desktop\计科2306 202308010603\include\book.h
+	<iostream>
+	<vector>
+
+1702960926 c:\users\showe\desktop\计科2306 202308010603\include\user.h
+	<iostream>
+
+1702960926 c:\users\showe\desktop\计科2306 202308010603\include\record.h
+	<iostream>
+
+1702960821 source:c:\users\showe\desktop\计科2306 202308010603\src\admin.cpp
+	"library.h"
+
+1703386366 source:c:\users\showe\desktop\计科2306 202308010603\src\book.cpp
+	"library.h"
+
+1702960821 source:c:\users\showe\desktop\计科2306 202308010603\src\record.cpp
+	"library.h"
+
+1702960821 source:c:\users\showe\desktop\计科2306 202308010603\src\user.cpp
+	"library.h"
+
+1703386552 source:c:\users\showe\desktop\计科2306 202308010603\src\library.cpp
+	"library.h"
+
+1702912217 source:c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\main.cpp
+	"library.h"
+
+1703347447 c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	<time.h>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1702960926 c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\include\admin.h
+	<iostream>
+
+1703386036 c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\include\book.h
+	<iostream>
+	<vector>
+
+1702960926 c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\include\user.h
+	<iostream>
+
+1702960926 c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\include\record.h
+	<iostream>
+
+1702960821 source:c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\src\admin.cpp
+	"library.h"
+
+1703386366 source:c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\src\book.cpp
+	"library.h"
+
+1703386552 source:c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\src\library.cpp
+	"library.h"
+
+1702960821 source:c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\src\record.cpp
+	"library.h"
+
+1702960821 source:c:\users\showe\desktop\study\程设\作业\计科2306 202308010603\src\user.cpp
+	"library.h"
+
+1702912217 source:c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\main.cpp
+	"library.h"
+
+1703347447 c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\include\library.h
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<math.h>
+	<fstream>
+	<iomanip>
+	<time.h>
+	"admin.h"
+	"book.h"
+	"user.h"
+	"record.h"
+
+1702960926 c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\include\admin.h
+	<iostream>
+
+1703386036 c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\include\book.h
+	<iostream>
+	<vector>
+
+1702960926 c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\include\user.h
+	<iostream>
+
+1702960926 c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\include\record.h
+	<iostream>
+
+1702960821 source:c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\src\admin.cpp
+	"library.h"
+
+1703386366 source:c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\src\book.cpp
+	"library.h"
+
+1703386552 source:c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\src\library.cpp
+	"library.h"
+
+1702960821 source:c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\src\record.cpp
+	"library.h"
+
+1702960821 source:c:\users\showe\desktop\hnuprogramming2023\计科2306 202308010603\src\user.cpp
+	"library.h"
+
